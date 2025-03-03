@@ -209,8 +209,8 @@ h6 { font-size: clamp(0.8rem, 0.8vw + 0.2rem, 1rem); }
   --color-text: #F5F0FF;
   --color-primary: #BA55D3;
   --color-secondary: #9370DB;
-  --color-accent: #DDA0DD;
-  --color-link: #E6E6FA;
+  --color-accent: #7A378B;
+  --color-link: #e871f0;
   --color-link-hover: #D8BFD8;
   --color-table-text: #F5F0FF;
 }
